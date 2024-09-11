@@ -27,6 +27,6 @@
 
 #### Working in Progress:
 
-*1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
+* 1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
 
 * ​2. Government-Led Industrial Cycles (with Zhiwei Xu)
