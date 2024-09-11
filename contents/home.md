@@ -1,5 +1,3 @@
-!
-
 Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong university. 
 
 #### Education
