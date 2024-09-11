@@ -1,8 +1,6 @@
 
-- **Dean's List (All Semester)** at University of Minnesota Twin Cities.
+* Merit Student, Ruiyuan-Hongshan Talent Development Fund at SJTU;
+* Graduate with merit, Excellent Thesis Award, etc., at HUST;
+* Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM);
+* Honorable Mention Prize of American Interdisciplinary Contest in Modeling (ACM); 
 
-- Special Corporate Scholarships, 2023. **(1/30)**
-
-- School Special Academic Scholarship, 2023.**(1%)**
-
-- First-Class Academic Scholarship, 2022.**(8%)**
