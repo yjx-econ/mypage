@@ -29,4 +29,4 @@
 
 * 1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
 
-* ​2. Government-Led Industrial Cycles (with Zhiwei Xu)
+* 2. Government-Led Industrial Cycles (with Zhiwei Xu)
