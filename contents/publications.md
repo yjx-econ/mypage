@@ -21,7 +21,7 @@
 
 * 7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit to **Econometric Reviews**), 2021
 
-* 8. 董丰、许志伟、俞锦祥，僵尸企业、信贷错配与宏观系统风险，2018，《经济研究》修改再审
+* 8. 董丰、许志伟、俞锦祥，僵尸企业、信贷错配与宏观系统风险，2018，**《经济研究》** 修改再审
 
 * 9. 许志伟、张哲玮、俞锦祥，目标与均衡：央地策略互动的理论视角，2023
 
