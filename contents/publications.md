@@ -1,10 +1,12 @@
 
 #### Publications
+
 * 1. Understanding Local Government Debt in China: A Regional Competition Perspective (with Xi Qu, Zhiwei Xu, and Jun Zhu), 2023, <strong>Regional Science and Urban Economics</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166046222000977)
 
 * 2. 黄少卿、<strong>俞锦祥</strong>（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong>《中国工业经济》</strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
 
 #### Working Papers
+
 * 1. International Credit Cycles (with Feng Dong and Zhiwei Xu, reject and resubmit at Journal of International Economics), 2022 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
 * 2. Policy Spillovers and Housing Cycles in China, 2022
@@ -25,6 +27,6 @@
 
 #### Working in Progress:
 
-1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
+*1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
 
-​2. Government-Led Industrial Cycles (with Zhiwei Xu)
+* ​2. Government-Led Industrial Cycles (with Zhiwei Xu)
