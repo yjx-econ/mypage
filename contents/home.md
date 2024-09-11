@@ -6,8 +6,7 @@ Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong university.
 * Bachelor of Economics, **Huazhong University of Science and Technology**,  Sept. 2016-June. 2020.
  
 #### Research Fields
-Macro Finance, Business Cycle, Chinese Economy
-
+**Macro Finance**, **Business Cycle**, **Chinese Economy**
 My current passion revolves around 
 * credit market friction and policy spillovers; 
 * macroeconomics with endogenous government behaviors.  
