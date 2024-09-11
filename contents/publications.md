@@ -15,9 +15,9 @@
 
 * 4. Fish and Bear’s Paw: Dilemmas in Integrating Environment into R&D Policy (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024.
 
-* 5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, under review), 2023 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+* 5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, under review), 2023 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
-* 6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review), 2021 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
+* 6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review), 2021 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
 
 * 7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit to Econometric Reviews), 2021
 
