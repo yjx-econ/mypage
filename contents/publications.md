@@ -1,7 +1,30 @@
-For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
 
-- *W. Zhu, Y. Ni, <strong><strong>C. Yin</strong></strong>, A. Tian, X. Wang, G. Xie. (2024). IAPT: Instance-Aware Prompt Turing for Large Language Models. The 62nd Annual Meeting of the Association for Computational Linguistics <strong><strong>(ACL 2024)</strong></strong>.*[[Paper]](https://arxiv.org/pdf/2405.18203)
+#### Publications
+* 1. Understanding Local Government Debt in China: A Regional Competition Perspective (with Xi Qu, Zhiwei Xu, and Jun Zhu), 2023, <strong>Regional Science and Urban Economics</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166046222000977)
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing <strong><strong>(ICASSP 2023)</strong></strong>.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
+* 2. 黄少卿、<strong>俞锦祥</strong>（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong>《中国工业经济》</strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
 
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition <strong><strong>(ISPP 2023)</strong></strong>.* [[Paper]](https://doi.org/10.1117/12.2681344)
+#### Working Papers
+* 1. International Credit Cycles (with Feng Dong and Zhiwei Xu, reject and resubmit at Journal of International Economics), 2022 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
+
+* 2. Policy Spillovers and Housing Cycles in China, 2022
+
+* 3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024
+
+* 4. Fish and Bear’s Paw: Dilemmas in Integrating Environment into R&D Policy (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024.
+
+* 5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, under review), 2023 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+
+* 6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review), 2021 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
+
+* 7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit to Econometric Reviews), 2021
+
+* 8. 董丰、许志伟、俞锦祥，僵尸企业、信贷错配与宏观系统风险，2018，《经济研究》修改再审
+
+* 9. 许志伟、张哲玮、俞锦祥，目标与均衡：央地策略互动的理论视角，2023
+
+#### Working in Progress:
+
+1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon
+
+​2. Government-Led Industrial Cycles (with Zhiwei Xu)
