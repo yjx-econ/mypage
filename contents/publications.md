@@ -7,7 +7,7 @@
 
 #### Working Papers
 
-* 1. International Credit Cycles (with Feng Dong and Zhiwei Xu, reject and resubmit at Journal of International Economics), 2022 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
+* 1. International Credit Cycles (with Feng Dong and Zhiwei Xu, reject and resubmit at **Journal of International Economics**), 2022 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
 * 2. Policy Spillovers and Housing Cycles in China, 2022
 
@@ -19,7 +19,7 @@
 
 * 6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review), 2021 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
 
-* 7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit to Econometric Reviews), 2021
+* 7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit to **Econometric Reviews**), 2021
 
 * 8. 董丰、许志伟、俞锦祥，僵尸企业、信贷错配与宏观系统风险，2018，《经济研究》修改再审
 
