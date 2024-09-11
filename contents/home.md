@@ -6,7 +6,7 @@ Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong university.
 * Bachelor of Economics, **Huazhong University of Science and Technology**,  Sept. 2016-June. 2020.
  
 #### Research Fields
-**Macro Finance**, **Business Cycle**, **Chinese Economy**
+**Macro Finance**, **Business Cycle**, **Chinese Economy**.
 
 My current passion revolves around 
 * credit market friction and policy spillovers; 
@@ -17,5 +17,3 @@ Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jin
 #### Contact<p id="contact-info"></p>
 
 Email: [yujinxiang@sjtu.edu.cn](yujinxiang@sjtu.edu.cn); [y509085231@gmail.com](y509085231@gmail.com).
-
-
