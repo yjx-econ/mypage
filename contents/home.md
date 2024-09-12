@@ -16,4 +16,4 @@ Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jin
 
 #### Contact<p id="contact-info"></p>
 
-Email: [yujinxiang@sjtu.edu.cn](yujinxiang@sjtu.edu.cn); [y509085231@gmail.com](y509085231@gmail.com).
+Email: [yujinxiang@sjtu.edu.cn](mailto:yujinxiang@sjtu.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
