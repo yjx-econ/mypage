@@ -25,7 +25,7 @@
 
 * 9. 许志伟、张哲玮、俞锦祥，目标与均衡：央地策略互动的理论视角，2023.
 
-#### Working in Progress:
+#### Working in Progress
 
 * 1. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), draft coming soon.
 
