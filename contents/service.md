@@ -1,6 +1,6 @@
 #### Teaching Assistant
-* Advanced Macroeconomy (Ph.D. Course), 2022-2023;
-* Intermediate Macroeconomy (Undergraduate Course), 2022;
+* Advanced Macroeconomics (Ph.D. Course), 2022-2023;
+* Intermediate Macroeconomics (Undergraduate Course), 2022;
 * Asset Management in Practice (MBA&MF Course), 2021;
 * Statistics Analysis Method (MBA Course), 2021.
 
