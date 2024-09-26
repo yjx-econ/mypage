@@ -13,7 +13,7 @@
 
 * 3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024.
 
-* 4. Fish and Bear’s Paw: Dilemmas in Integrating Environment into R&D Policy (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024.
+* 4. Effectiveness of Environmental Policy Integration: Evidence from China's HNTE-env Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024.
 
 * 5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, under review), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
