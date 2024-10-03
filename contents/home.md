@@ -12,8 +12,8 @@ My current passion revolves around
 * credit market friction and policy spillovers; 
 * macroeconomics with endogenous government behaviors.  
 
-Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_202409.pdf); [中文版](https://yjx-econ.github.io/mypage/static/assets/%E4%BF%9E%E9%94%A6%E7%A5%A5_%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86202409.pdf).
-
 #### Contact<p id="contact-info"></p>
 
 Email: [yujinxiang@sjtu.edu.cn](mailto:yujinxiang@sjtu.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
+
+Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_202409.pdf); [中文版](https://yjx-econ.github.io/mypage/static/assets/%E4%BF%9E%E9%94%A6%E7%A5%A5_%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86202409.pdf).
