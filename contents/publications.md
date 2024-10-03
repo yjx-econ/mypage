@@ -11,7 +11,7 @@
 
 * 2. Policy Spillovers and Housing Cycles in China, 2022.
 
-* 3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. [[CICM Draft]](https://cicm.econ.cuhk.edu.hk/wp-content/uploads/2024/06/I-New-Issues-and-New-Methodologies_Financing-RD.pdf)
+* 3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. [[CICM Version]](https://cicm.econ.cuhk.edu.hk/wp-content/uploads/2024/06/I-New-Issues-and-New-Methodologies_Financing-RD.pdf)
 
 * 4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
