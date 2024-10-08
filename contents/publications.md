@@ -10,7 +10,7 @@
 
   1. International Credit Cycles (with Feng Dong and Zhiwei Xu, reject and resubmit at <strong><strong>Journal of International Economics</strong></strong>), 2022. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
-  2. Policy Spillovers and Housing Cycles in China, 2022.
+  2. Policy Spillovers and Endogenous Boom-Bust Cycles in China's Housing Market, 2022.
 
   3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. 
 
