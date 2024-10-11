@@ -14,7 +14,7 @@
 
   3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. 
 
-  4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu, under review), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
   5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
