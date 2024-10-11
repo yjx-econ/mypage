@@ -1,9 +1,6 @@
-
-#### 研究生阶段
-  - 第一届“国家金融学学术年会”一等奖；
-  - 上海交通大学三好学生、优秀团员；睿远-红杉人才发展基金；
-
-#### 本科阶段
-  - 华中科技大学优秀毕业生、优秀毕业论文奖、校优秀学生干部、优秀共青团干部、创新创业优秀个人、社会实践优秀个人等；
-  - “高教社杯”数学建模竞赛全国二等奖、全美大学生数学建模竞赛二等奖；
+- Chinese Government Scholarship, supported by CSC
+- First Prize of Annual Conference of National Finance (Only one of 200+ submissions)
+- Ruiyuan-Hongshan Talent Development Fund (Top 3%)
+- Merit Student at Shanghai Jiao Tong University (Top 3%)
+- Excellent Graduate Thesis Award at HUST (Top 3%)
 
