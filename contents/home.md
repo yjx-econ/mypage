@@ -9,8 +9,8 @@ Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong university.
 Macro Finance, Business Cycle, Chinese Economy.
 
 My current passion revolves around 
-* credit market friction and policy spillovers; 
-* macroeconomics with endogenous government behaviors.  
+* Financial market friction and policy spillovers; 
+* Macroeconomics with endogenous government behaviors.  
 
 #### Contact<p id="contact-info"></p>
 
