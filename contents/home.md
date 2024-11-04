@@ -1,6 +1,6 @@
-Welcome! I am a Ph.D. candidate at Shanghai Jiao Tong University. 
+Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong University. 
 
-I am on the 2024/25 academic job market.
+I'm on the 2024/25 academic job market.
 
 #### Education
 * Ph.D. Candidate in Economics, **Shanghai Jiao Tong University**, Sept. 2020-Present.
