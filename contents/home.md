@@ -1,4 +1,4 @@
-Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong University. 
+Welcome! I am a Ph.D. candidate at Shanghai Jiao Tong University. 
 
 I am on the 2024/25 academic job market.
 
