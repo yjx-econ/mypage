@@ -5,7 +5,7 @@
 - Merit Student at Shanghai Jiao Tong University  (Top 3%)
 - Excellent Graduate Thesis Award at HUST (Top 3%)
 
-#### 中文版：
+#### 中文翻译：
 - 国家建设高水平大学公派研究生项目奖学金
 - 上海市世界经济学会2024年年会特等奖（**唯一**）
 - 第一届“国家金融学学术年会”一等奖（**唯一**）
