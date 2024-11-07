@@ -14,7 +14,7 @@
 
   3. Financing Innovation (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. [[CICM Meeting Paper]](https://cicm.econ.cuhk.edu.hk/wp-content/uploads/2024/06/I-New-Issues-and-New-Methodologies_Financing-RD.pdf) 
 
-  4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu, submitted at <strong><strong>Review of Economics and Statistics</strong></strong>), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu, under review at <strong><strong>Review of Economics and Statistics</strong></strong>), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
   5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, submitted at <strong><strong>Journal of Urban Economics</strong></strong>), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
