@@ -1,6 +1,7 @@
 #### Teaching Assistant
 * Advanced Macroeconomics (Ph.D. Course), 2022-2023
 * Intermediate Macroeconomics (Undergraduate Course), 2022
+* Econometrics (Undergraduate Course), 2021
 * Asset Management in Practice (MBA&MF Course), 2021
 * Statistics Analysis Method (MBA Course), 2021
 * Analysis of Big Data (MBA Course), 2021
