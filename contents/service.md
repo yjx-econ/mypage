@@ -1,8 +1,9 @@
 #### Teaching Assistant
-* Advanced Macroeconomics (Ph.D. Course), 2022-2023;
-* Intermediate Macroeconomics (Undergraduate Course), 2022;
-* Asset Management in Practice (MBA&MF Course), 2021;
-* Statistics Analysis Method (MBA Course), 2021.
+* Advanced Macroeconomics (Ph.D. Course), 2022-2023
+* Intermediate Macroeconomics (Undergraduate Course), 2022
+* Asset Management in Practice (MBA&MF Course), 2021
+* Statistics Analysis Method (MBA Course), 2021
+* Analysis of Big Data (MBA Course), 2021
 
 #### Policy Review
 1. 加杠杆与企业生产率：基于信贷配给的视角，清华大学CIDEG决策参考，2021
