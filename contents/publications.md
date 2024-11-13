@@ -16,7 +16,7 @@
 
   4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu, under review at <strong><strong>Review of Economics and Statistics</strong></strong>), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu, submitted at <strong><strong>Journal of Urban Economics</strong></strong>), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+  5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, and  Zhiwei Xu), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
   6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review at <strong><strong>China Economic Review</strong></strong>), 2021. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
 
