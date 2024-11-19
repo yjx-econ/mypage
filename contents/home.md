@@ -16,6 +16,6 @@ My current passion revolves around
 
 #### Contact<p id="contact-info"></p>
 
-Email: [yujinxiang@sjtu.edu.cn](mailto:yujinxiang@sjtu.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
+Email: [y509085231@gmail.com](mailto:y509085231@gmail.com).
 
 Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文版](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
