@@ -12,7 +12,8 @@ Macro Finance, Business Cycle, Chinese Economy.
 
 My current passion revolves around 
 * Financial market friction and policy spillovers; 
-* Macroeconomics with endogenous government behaviors.  
+* Macroeconomics with endogenous government behaviors.
+* R&D issues and economic growth. 
 
 #### Contact<p id="contact-info"></p>
 
