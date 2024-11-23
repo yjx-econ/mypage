@@ -10,7 +10,7 @@ I'm on the 2024/25 academic job market.
 #### Research Fields
 Macro Finance, Business Cycle, Chinese Economy.
 
-My current passion revolves around 
+I am currently working on
 * Financial market friction and policy spillovers; 
 * Macroeconomics with endogenous government behaviors.
 * R&D issues and economic growth. 
