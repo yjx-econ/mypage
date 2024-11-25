@@ -23,10 +23,8 @@
   7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit at <strong><strong>Econometric Reviews</strong></strong>), 2021.
 
   8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟），<strong><strong>《经济研究》</strong></strong>修改再审，2023.
-
-  9. 美国加征关税如何影响中国上市公司的创新（合作者：吕金秋、车翼、张燕），<strong><strong>《财经研究》</strong></strong>修改再审，2024. 
   
-  10. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮），2023.
+  9. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮），2023.
 
 
 
