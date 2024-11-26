@@ -17,6 +17,6 @@ I'm currently working on
 
 #### Contact<p id="contact-info"></p>
 
-Email: [y509085231@gmail.com](mailto:y509085231@gmail.com).
+Email: [y509085231@gmail.com](mailto:y509085231@gmail.com); [yujinxiang@sjtu.edu.cn](mailto:yujinxiang@sjtu.edu.cn).
 
 Curriculum Vitae:   [PDF](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文版](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
