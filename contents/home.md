@@ -8,7 +8,7 @@ I'm on the 2024/25 academic job market.
 * Bachelor in Economics, **Huazhong University of Science and Technology**,  Sept. 2016-June. 2020.
  
 #### Research Fields
-Macro Finance, Business Cycle, Chinese Economy.
+Macro Finance, International Economics, Chinese Economy.
 
 I'm currently working on
 * Financial market friction and policy spillovers; 
