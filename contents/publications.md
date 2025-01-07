@@ -18,7 +18,7 @@
 
   5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu, under review), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
-  6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review at <strong><strong>China Economic Review</strong></strong>), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
+  6. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu, under review), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560074)
 
   7. Spatial Dynamic Panel Data Models with High Order Time Varying Endogenous Weights Matrices (with Jiajun Zhang and Xi Qu, revise and resubmit at <strong><strong>Econometric Reviews</strong></strong>), 2021.
 
