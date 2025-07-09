@@ -17,3 +17,6 @@ I'm currently working on
 
 Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
 
+Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文简历](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
+
+
