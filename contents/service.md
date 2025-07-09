@@ -1,10 +1,3 @@
-#### Teaching Assistant
-* Advanced Macroeconomics (Ph.D. Course), 2022-2023
-* Intermediate Macroeconomics (Undergraduate Course), 2022
-* Econometrics (Undergraduate Course), 2021
-* Asset Management in Practice (MBA&MF Course), 2021
-* Statistics Analysis Method (MBA Course), 2021
-* Analysis of Big Data (MBA Course), 2021
 
 #### Policy Review
 1. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (Xi Qu, Zhiwei Xu, Jinxiang Yu), VoxChina, 2025 [[Link]](https://voxchina.org/show-3-404.html)
