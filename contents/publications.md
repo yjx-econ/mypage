@@ -10,7 +10,7 @@
   4. 许志伟、张哲玮、俞锦祥，政府行为的经济效应：一个多级政府的宏观分析框架，<strong><strong>《经济学报》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbTYQNmquKmgXONJGlkDGdpYnPqYg7e58L3H2t7gZQxNCXq5ZRvxSzIwuSOzxzT72ItbvQf4COrGopMy3Z7hcVL8eQgDWfuPsu-q_TGHuUDJkB_BEu94ewA16hbz9nT2Tq38zWslN8qZ0T5cmkxjuZYZ75dHEeLO-co5D79kFqCdSQ==&uniplatform=NZKPT&language=CHS)
 
   5. 吕金秋、车翼、张燕、俞锦祥，西风凌冽，东风何往： 美国加征关税与中国企业创新，<strong><strong>《财经研究》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbRw-NA9f9lia6Ss2UHYZ2QAonSs_iSzrbnbCNE85fVxBn5YP-PazM2LHNk2-RlOySLIDkB_M0PcCBHcGDZwkpLlJN_KdZLWS8w00J7xMVz7OSvvzw0v2VyfN5wF3KzZsF_BCoM6BiIgLMsSgOrHWfDa&uniplatform=NZKPT)
-```
+
 
 #### Selected Working Papers
 
