@@ -1,4 +1,4 @@
-Welcome! I'm a Assistant Professor at Shanghai University of Finance and Economics. 
+Welcome! I'm an Assistant Professor at Shanghai University of Finance and Economics. 
 
 #### Education
 * Ph.D. in Economics, **Shanghai Jiao Tong University**, Sept. 2020-June. 2025.
