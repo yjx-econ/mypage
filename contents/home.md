@@ -1,12 +1,12 @@
-Welcome! I'm a Ph.D. candidate at Shanghai Jiao Tong University. 
+Welcome! I'm a Assistant Professor at Shanghai University of Finance and Economics. 
 
 #### Education
-* Ph.D. Candidate in Economics, **Shanghai Jiao Tong University**, Sept. 2020-Present.
+* Ph.D. in Economics, **Shanghai Jiao Tong University**, Sept. 2020-June. 2025.
 * Visiting Ph.D. Student, **National University of Singapore**, July. 2023-July. 2024.
 * Bachelor in Economics, **Huazhong University of Science and Technology**,  Sept. 2016-June. 2020.
  
 #### Research Fields
-Macro Finance, International Economics, Chinese Economy.
+Macro Finance, Chinese Economy.
 
 I'm currently working on
 * Financial market friction and policy spillovers; 
@@ -15,5 +15,5 @@ I'm currently working on
 
 #### Contact<p id="contact-info"></p>
 
-Email: [y509085231@gmail.com](mailto:y509085231@gmail.com); [yujinxiang@sjtu.edu.cn](mailto:yujinxiang@sjtu.edu.cn).
+Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
 
