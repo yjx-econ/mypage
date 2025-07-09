@@ -3,7 +3,7 @@
 
   1. Understanding Local Government Debt in China: A Regional Competition Perspective (with Xi Qu, Zhiwei Xu, and Jun Zhu), 2023, <strong><strong>Regional Science and Urban Economics</strong></strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166046222000977)
 
-  2. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu), 2025, <strong><strong>China Economic Review<strong><strong>, Corresponding author. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1043951X25000987)
+  2. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu), 2025, <strong><strong>China Economic Review</strong></strong>, Corresponding author. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1043951X25000987)
 
   3. 黄少卿、<strong><strong>俞锦祥</strong></strong>（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong><strong>《中国工业经济》</strong></strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
 
