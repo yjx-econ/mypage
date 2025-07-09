@@ -5,7 +5,7 @@
 
   2. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu), 2025, <strong><strong>China Economic Review, Corresponding author<strong><strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1043951X25000987)
 
-  3. 黄少卿、<strong>俞锦祥</strong>（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong>《中国工业经济》</strong></strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
+  3. 黄少卿、<strong>俞锦祥</strong>（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong><strong>《中国工业经济》</strong></strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
 
   4. 许志伟、张哲玮、俞锦祥，政府行为的经济效应：一个多级政府的宏观分析框架，《经济学报》，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbTYQNmquKmgXONJGlkDGdpYnPqYg7e58L3H2t7gZQxNCXq5ZRvxSzIwuSOzxzT72ItbvQf4COrGopMy3Z7hcVL8eQgDWfuPsu-q_TGHuUDJkB_BEu94ewA16hbz9nT2Tq38zWslN8qZ0T5cmkxjuZYZ75dHEeLO-co5D79kFqCdSQ==&uniplatform=NZKPT&language=CHS)
 
