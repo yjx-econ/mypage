@@ -11,7 +11,8 @@
 
   5. 吕金秋、车翼、张燕、<strong><strong>俞锦祥</strong></strong>，西风凌冽，东风何往： 美国加征关税与中国企业创新，《财经研究》，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbRw-NA9f9lia6Ss2UHYZ2QAonSs_iSzrbnbCNE85fVxBn5YP-PazM2LHNk2-RlOySLIDkB_M0PcCBHcGDZwkpLlJN_KdZLWS8w00J7xMVz7OSvvzw0v2VyfN5wF3KzZsF_BCoM6BiIgLMsSgOrHWfDa&uniplatform=NZKPT)
 
-#### Working Papers
+
+#### Selected Working Papers
 
   1. International Credit Cycles (with Feng Dong and Zhiwei Xu), 2022. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
