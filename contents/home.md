@@ -13,7 +13,7 @@ I'm currently working on
 * Macroeconomics with endogenous government behaviors.
 * R&D issues and economic growth. 
 
-#### Contact<p id="contact-info"></p>
+#### Contact 
 
 Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
 
