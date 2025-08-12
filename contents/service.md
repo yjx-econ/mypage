@@ -7,4 +7,4 @@
 5. 畅流提效：高质量发展、全要素生产率与金融资源配置（许志伟、俞锦祥），2025，《金融市场研究》 [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbQLClmcLScugx7X_O7-4_wNeMVqW3lp7SR3CFiJb2VoMyH8S4l6TNrQrKrzNSCs4D5qB3fih0lavPaUIf9rhV2Q54rNXsCe8ZQD2jQQKpPki9VAil-EtopNqjpv2kUC2xLV3maOoJ_A9uyaLNF1gvvt3V5eaqez1rt6bm_UnQK5_w==&uniplatform=NZKPT&language=CHS)
 
 #### Reviewer Service
-China & World Economy, 经济学报.
+Economic Modelling, China & World Economy, 经济学报.
