@@ -16,7 +16,9 @@ I'm currently working on
 #### Contact 
 
 Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
+
 Contact: Room 727, School of Economics, SUFE, 777 Guoding Road, Shanghai, China, 200433
+
 Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文简历](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
 
 
