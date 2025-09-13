@@ -11,7 +11,10 @@ Macro Finance, Chinese Economy.
 I'm currently working on
 * Financial market friction and policy spillovers; 
 * Macroeconomics with endogenous government behaviors.
-* R&D issues and economic growth. 
+* R&D issues and economic growth.
+
+Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文简历](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
+
 
 #### Contact 
 
@@ -19,6 +22,5 @@ Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y50
 
 Address: Room 727, School of Economics, SUFE, 777 Guoding Road, Shanghai, China, 200433
 
-Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文简历](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
 
 
