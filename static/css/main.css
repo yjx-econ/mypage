@@ -5,8 +5,9 @@
 }
 
 /* ------------------ 全局正文 ------------------ */
-body, p, li, div, .main-body {
-    font-family: 'Mulish', 'Noto Sans SC', 'STXingkai', "华文行楷", sans-serif;
+/* 中文优先行楷 / 思源，英文备用 Mulish */
+.main-body, body, p, li, div {
+    font-family: 'STXingkai', "华文行楷", 'Noto Sans SC', 'Mulish', sans-serif;
     font-weight: 200;
     font-size: 1.3rem;
     line-height: 2.5rem;
@@ -18,7 +19,7 @@ body, p, li, div, .main-body {
 }
 
 .navbar-brand, .nav-link, .btn {
-    font-family: 'Kanit', 'Noto Sans SC', sans-serif;
+    font-family: 'Kanit', sans-serif;
 }
 
 /* ------------------ 背景与顶部区域 ------------------ */
@@ -35,7 +36,7 @@ body, p, li, div, .main-body {
 }
 
 .top-section h2 {
-    font-family: 'Newsreader', 'Noto Serif SC', serif;
+    font-family: 'Newsreader', serif;
     font-weight: 400;
 }
 
@@ -57,7 +58,7 @@ body, p, li, div, .main-body {
 
 /* ------------------ Section Header ------------------ */
 section header h2 {
-    font-family: 'Newsreader', 'Noto Serif SC', serif !important;
+    font-family: 'Newsreader', serif !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
