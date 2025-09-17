@@ -5,9 +5,8 @@
 }
 
 /* ------------------ 全局正文 ------------------ */
-/* 以英文为主，中文出现时显示行楷或思源中文字体 */
-.main-body, body, p, li, div {
-    font-family: 'Mulish', 'STXingkai', "华文行楷", 'Noto Sans SC', sans-serif;
+body, p, li, div, .main-body {
+    font-family: 'Mulish', 'Noto Sans SC', 'STXingkai', "华文行楷", sans-serif;
     font-weight: 200;
     font-size: 1.3rem;
     line-height: 2.5rem;
@@ -19,7 +18,7 @@
 }
 
 .navbar-brand, .nav-link, .btn {
-    font-family: 'Kanit', sans-serif;
+    font-family: 'Kanit', 'Noto Sans SC', sans-serif;
 }
 
 /* ------------------ 背景与顶部区域 ------------------ */
@@ -36,7 +35,7 @@
 }
 
 .top-section h2 {
-    font-family: 'Newsreader', serif;
+    font-family: 'Newsreader', 'Noto Serif SC', serif;
     font-weight: 400;
 }
 
@@ -58,7 +57,7 @@
 
 /* ------------------ Section Header ------------------ */
 section header h2 {
-    font-family: 'Newsreader', serif !important;
+    font-family: 'Newsreader', 'Noto Serif SC', serif !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
