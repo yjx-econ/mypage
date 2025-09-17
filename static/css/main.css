@@ -5,9 +5,9 @@
 }
 
 /* ------------------ 全局正文 ------------------ */
-/* 中文优先行楷 / 思源，英文备用 Mulish */
+/* 以英文为主，中文出现时显示行楷或思源中文字体 */
 .main-body, body, p, li, div {
-    font-family: 'STXingkai', "华文行楷", 'Noto Sans SC', 'Mulish', sans-serif;
+    font-family: 'Mulish', 'STXingkai', "华文行楷", 'Noto Sans SC', sans-serif;
     font-weight: 200;
     font-size: 1.3rem;
     line-height: 2.5rem;
