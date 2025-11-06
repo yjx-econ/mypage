@@ -16,7 +16,7 @@
 
   1. International Credit Cycles (with Feng Dong and Zhiwei Xu), 2022. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
-  2. Policy Spillovers and \\ Boom-Bust Cycles in Housing Market, 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
+  2. Policy Spillovers and Boom-Bust Cycles in Housing Market, 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
 
   3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. 
 
