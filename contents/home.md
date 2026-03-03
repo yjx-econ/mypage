@@ -20,7 +20,7 @@ Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/ass
 
 Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y509085231@gmail.com](mailto:y509085231@gmail.com).
 
-Address: 777 Guoding Road, YangPu District, Shanghai, China, 200433
+Address: School of Economics, SUFE, 777 Guoding Road, YangPu District, Shanghai, China, 200433
 
 
 
