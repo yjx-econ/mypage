@@ -18,17 +18,19 @@
 
   2. Policy Spillovers and Boom-Bust Cycles in Housing Market, 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
 
-  3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024. 
+  3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024.
 
-  4. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  4. Entrepreneurship and Credit Crunch (with Yicheng Wang, Zhiwei Xu, and Liyan Yang), 2026, draft coming soon.​
 
-  5. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+  5. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  6. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), 2023 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
+  6. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
-  7. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟），2023.
+  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), 2023 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
+
+  8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟），2023.
   
-  8. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮），2023.
+  9. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮），2023.
 
 
 
