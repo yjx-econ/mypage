@@ -276,6 +276,28 @@
                 letter-spacing: 0.03em;
             }
         }
+
+        css
+.top-section {
+    position: relative;
+}
+
+.floating-photo {
+    position: absolute;
+    right: 9%;
+    bottom: -110px;
+    z-index: 20;
+}
+
+.floating-photo img {
+    width: 220px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 16px;
+    box-shadow: 0 22px 55px rgba(0,0,0,0.28);
+    background: white;
+}
+
     </style>
 </head>
 
@@ -331,30 +353,7 @@
     </div>
 
 </header>
-
-css
-.top-section {
-    position: relative;
-}
-
-.floating-photo {
-    position: absolute;
-    right: 9%;
-    bottom: -110px;
-    z-index: 20;
-}
-
-.floating-photo img {
-    width: 220px;
-    height: auto;
-    object-fit: contain;
-    border-radius: 16px;
-    box-shadow: 0 22px 55px rgba(0,0,0,0.28);
-    background: white;
-}
-```
-
-
+ 
     <main>
         <!-- Home -->
         <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home" aria-labelledby="home-subtitle">
