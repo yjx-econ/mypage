@@ -1,5 +1,4 @@
-```html
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -157,34 +156,6 @@
         }
 
         /* =========================
-           Floating Portrait
-        ========================= */
-
-        .floating-photo {
-            position: absolute;
-            right: clamp(20rem, 44vw, 45rem);
-            bottom: -78px;
-            z-index: 20;
-        }
-
-        .floating-photo img {
-            width: 215px;
-            height: auto;
-            object-fit: contain;
-            border-radius: 18px;
-            background: #fff;
-            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.30);
-            transition:
-                transform 0.25s ease,
-                box-shadow 0.25s ease;
-        }
-
-        .floating-photo img:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 30px 70px rgba(0, 0, 0, 0.34);
-        }
-
-        /* =========================
            Sections
         ========================= */
 
@@ -194,7 +165,7 @@
         }
 
         #home {
-            padding-top: 7.8rem;
+            padding-top: 5.8rem;
         }
 
         section header h2 {
@@ -273,6 +244,53 @@
         }
 
         /* =========================
+           About Portrait
+        ========================= */
+
+        .home-container::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+
+        .about-portrait {
+            float: right;
+            width: clamp(170px, 16vw, 220px);
+
+            /*
+               这组 margin 是关键：
+               上方负 margin 让照片自然压到 banner 与 About 之间；
+               左侧 margin 给正文留出呼吸空间；
+               横向位置由容器宽度自动决定，不需要手动 right 定位。
+            */
+            margin:
+                -7.2rem
+                clamp(0.5rem, 3vw, 3.5rem)
+                1.8rem
+                3rem;
+
+            position: relative;
+            z-index: 20;
+        }
+
+        .about-portrait img {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            border-radius: 18px;
+            background: #fff;
+            box-shadow: 0 24px 60px rgba(0, 0, 0, 0.30);
+            transition:
+                transform 0.25s ease,
+                box-shadow 0.25s ease;
+        }
+
+        .about-portrait img:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 30px 70px rgba(0, 0, 0, 0.34);
+        }
+
+        /* =========================
            Tablet
         ========================= */
 
@@ -283,18 +301,18 @@
                 min-height: 560px;
             }
 
-            .floating-photo {
-                right: 50%;
-                bottom: -82px;
-                transform: translateX(50%);
-            }
-
-            .floating-photo img {
-                width: 185px;
-            }
-
             #home {
-                padding-top: 7.2rem;
+                padding-top: 5.5rem;
+            }
+
+            .about-portrait {
+                float: none;
+                width: 185px;
+                margin:
+                    -5.8rem
+                    auto
+                    2rem
+                    auto;
             }
 
             section {
@@ -325,17 +343,22 @@
                 text-align: left;
             }
 
-            .floating-photo {
-                bottom: -68px;
-            }
-
-            .floating-photo img {
-                width: 150px;
-                border-radius: 14px;
-            }
-
             #home {
-                padding-top: 6.6rem;
+                padding-top: 5rem;
+            }
+
+            .about-portrait {
+                float: none;
+                width: 150px;
+                margin:
+                    -4.8rem
+                    auto
+                    1.8rem
+                    auto;
+            }
+
+            .about-portrait img {
+                border-radius: 14px;
             }
 
             .main-body {
@@ -413,13 +436,6 @@
             </div>
         </div>
 
-        <!-- Floating Portrait -->
-        <div class="floating-photo">
-            <img class="shadow"
-                src="static/assets/img/photo.jpg"
-                alt="Portrait of Jinxiang Yu"
-                loading="eager" />
-        </div>
     </header>
 
     <main>
@@ -428,10 +444,19 @@
             id="home"
             aria-labelledby="home-subtitle">
 
-            <div class="container px-5">
+            <div class="container px-5 home-container">
                 <header>
                     <h2 id="home-subtitle">About</h2>
                 </header>
+
+                <!-- Portrait placed inside About.
+                     It floats right beside the introductory paragraph automatically. -->
+                <aside class="about-portrait">
+                    <img class="shadow"
+                        src="static/assets/img/photo.jpg"
+                        alt="Portrait of Jinxiang Yu"
+                        loading="eager">
+                </aside>
 
                 <div class="main-body" id="home-md"></div>
             </div>
@@ -499,4 +524,4 @@
 </body>
 
 </html>
-```
+ 
