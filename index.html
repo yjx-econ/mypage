@@ -303,23 +303,57 @@
         </div>
     </nav>
 
-    <!-- Hero -->
-    <header class="top-section" style="background-image: url('static/assets/img/Fig_HK.jpg');">
-        <div class="top-section-content">
-            <div class="container px-1">
-                <div class="row align-items-center">
-                    <div class="col-lg-8">
-                        <h1 id="top-section-bg-text" class="text-light display-3 lh-1 mb-4 font-alt">Jinxiang Yu</h1>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="user-photo photo">
-                            <img class="shadow" src="static/assets/img/photo.jpg" alt="Portrait of Jinxiang Yu" width="320" height="320" loading="eager" />
-                        </div>
-                    </div>
+```html
+<!-- Hero -->
+<header class="top-section" style="background-image: url('static/assets/img/Fig_HK.jpg');">
+
+    <div class="top-section-content">
+        <div class="container px-1">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 id="top-section-bg-text"
+                        class="text-light display-3 lh-1 mb-4 font-alt">
+                        Jinxiang Yu
+                    </h1>
                 </div>
             </div>
+
         </div>
-    </header>
+    </div>
+
+    <!-- Floating Portrait -->
+    <div class="floating-photo">
+        <img class="shadow"
+             src="static/assets/img/photo.jpg"
+             alt="Portrait of Jinxiang Yu"
+             loading="eager" />
+    </div>
+
+</header>
+
+css
+.top-section {
+    position: relative;
+}
+
+.floating-photo {
+    position: absolute;
+    right: 9%;
+    bottom: -110px;
+    z-index: 20;
+}
+
+.floating-photo img {
+    width: 220px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 16px;
+    box-shadow: 0 22px 55px rgba(0,0,0,0.28);
+    background: white;
+}
+```
+
 
     <main>
         <!-- Home -->
