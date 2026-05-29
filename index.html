@@ -327,45 +327,54 @@
            Mobile
         ========================= */
 
-        @media (max-width: 575.98px) {
+       @media (max-width: 575.98px) {
 
-/* Hide portrait on mobile */
+    /* Remove hero/banner/portrait on mobile */
+    .top-section {
+        display: none;
+    }
 
-.hero-portrait-layer {
-    display: none;
-} 
+    /* Compact mobile spacing */
+    #home {
+        padding-top: 5.5rem;
+        padding-bottom: 3.2rem;
+    }
 
-         
-             :root {
-                 135px;
-                --portrait-overlap: 64px;
-            }
+    section {
+        padding-top: 3.2rem;
+        padding-bottom: 3.2rem;
+    }
 
-            .container,
-            .container.px-5 {
-                padding-left: 1.35rem 
-                padding-right: 1.35rem 
-            }
+    .container,
+    .container.px-5 {
+        padding-left: 1.25rem !important;
+        padding-right: 1.25rem !important;
+    }
 
-         .top-section { display: none; }
- 
-            .hero-portrait img {
-                border-radius: 14px;
-            }
+    .navbar-brand {
+        font-size: 1.1rem;
+    }
 
-            #home { padding-top: 10rem; }
+    .nav-link {
+        font-size: 0.98rem;
+        letter-spacing: 0.03em;
+    }
 
-            .main-body {
-                font-size: 1rem;
-                line-height: 1.9;
-            }
+    section header h2 {
+        font-size: 1.45rem;
+        margin-bottom: 1.35rem;
+    }
 
-            .nav-link {
-                letter-spacing: 0.03em;
-            }
-        }
-    </style>
-</head>
+    .main-body {
+        font-size: 0.98rem;
+        line-height: 1.85;
+    }
+
+    .main-body ul,
+    .main-body ol {
+        padding-left: 1.15rem;
+    }
+}
 
 <body id="page-top">
     <a class="visually-hidden-focusable" href="#home">Skip to main content</a>
