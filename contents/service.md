@@ -1,2 +1,2 @@
-- Intermediate Macroeconomics (Undergraduate), Fall 2025
+- Intermediate Macroeconomics (Undergraduate), Fall 2025, Fall 2026
 - Advanced Macroeconomics III (PHD), Fall 2025
