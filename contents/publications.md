@@ -15,23 +15,31 @@
 
 #### Selected Working Papers
 
-  1. International Credit Cycles (with Feng Dong and Zhiwei Xu), 2022. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
+  1. International Credit Cycles (with Feng Dong and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
-  2. Policy Spillovers and Boom-Bust Cycles in Housing Markets, 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
+  2. Policy Spillovers and Boom-Bust Cycles in Housing Markets. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
 
-  3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu), 2024.
+  3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu).
 
-  4. Entrepreneurship and Credit Crunch (with Yicheng Wang, Zhiwei Xu, and Liyan Yang), 2026, draft coming soon.​
+  4. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​
 
-  5. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu), 2024. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  5. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  6. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu), 2023. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+  6. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
-  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang), 2023 [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
+  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
 
-  8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟），2023.
+  8. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
+
+  9. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟）.
   
-  9. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮），2023.
+  10. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮）.
+
+#### Research Grants
+
+  1. Principal Investigator, National Natural Science Foundation of China Youth Program (Category C), No. 72603198, 2027-2029.
+    
+  2. Principal Investigator, Shanghai Pujiang Talents Program, NO. 25PJC034, 2025-2028.
 
 
 
