@@ -16,7 +16,7 @@ Email: [yujinxiang@mail.shufe.edu.cn](mailto:yujinxiang@mail.shufe.edu.cn); [y50
 
 Address: School of Economics, SUFE, 777 Guoding Road, YangPu District, Shanghai, China, 200433
 
-Lasted updated: September 2026
+Latest updated: September 2026
 
 
 
