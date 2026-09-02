@@ -23,7 +23,7 @@
 
   4. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​[[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7386698)
 
-  5. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  5. Green Criteria in R&D Policy: Innovation, Pollution, and Welfare (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
   6. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
 
