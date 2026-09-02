@@ -39,9 +39,9 @@
 
 #### Research Grants
 
-  1. Principal Investigator, National Natural Science Foundation of China Youth Program (Category C), No. 72603198, 2027-2029.
+  1. PI, National Natural Science Foundation of China Youth Program (Category C), No. 72603198, 2027-2029.
     
-  2. Principal Investigator, Shanghai Pujiang Talents Program, NO. 25PJC034, 2025-2028.
+  2. PI, Shanghai Pujiang Talents Program, NO. 25PJC034, 2025-2028.
 
 
 
