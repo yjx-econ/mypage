@@ -21,7 +21,7 @@
 
   3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu).
 
-  4. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​
+  4. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​[[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7386698)
 
   5. Effectiveness of Environmental Policy Integration: Evidence from China's R&D Policy Reform (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
