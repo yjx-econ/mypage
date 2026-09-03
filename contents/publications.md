@@ -15,7 +15,7 @@
 
 #### Selected Working Papers
 
-  1. International Credit Cycles (with Feng Dong and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
+  1. Inflow-Driven Contagion: A Theory of International Spillovers of Credit Cycles (with Feng Dong and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
   2. Policy Spillovers and Boom-Bust Cycles in Housing Markets. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
 
