@@ -1,15 +1,17 @@
 
 #### Publications
 
-  1. Understanding Local Government Debt in China: A Regional Competition Perspective (with Xi Qu, Zhiwei Xu, and Jun Zhu), 2023, <strong><strong>Regional Science and Urban Economics</strong></strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166046222000977)
-
+  1. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, Zhiwei Xu, Xinyu Zhan), 2026, forthcoming in <strong><strong>Regional Science and Urban Economics</strong></strong>.
+     
   2. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu), 2025, <strong><strong>China Economic Review</strong></strong>, Corresponding author. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1043951X25000987)
 
-  3. 黄少卿、俞锦祥（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong><strong>《中国工业经济》</strong></strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
+  3. Understanding Local Government Debt in China: A Regional Competition Perspective (with Xi Qu, Zhiwei Xu, and Jun Zhu), 2023, <strong><strong>Regional Science and Urban Economics</strong></strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0166046222000977)
 
-  4. 许志伟、张哲玮、俞锦祥，政府行为的经济效应：一个多级政府的宏观分析框架，<strong><strong>《经济学报》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbTYQNmquKmgXONJGlkDGdpYnPqYg7e58L3H2t7gZQxNCXq5ZRvxSzIwuSOzxzT72ItbvQf4COrGopMy3Z7hcVL8eQgDWfuPsu-q_TGHuUDJkB_BEu94ewA16hbz9nT2Tq38zWslN8qZ0T5cmkxjuZYZ75dHEeLO-co5D79kFqCdSQ==&uniplatform=NZKPT&language=CHS)
+  4. 黄少卿、俞锦祥（通讯作者）、许志伟， 杠杆率与企业生产率关系：基于信贷误配的视角，<strong><strong>《中国工业经济》</strong></strong>，2022. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19581/j.cnki.ciejournal.2022.09.009)
 
-  5. 吕金秋、车翼、张燕、俞锦祥，西风凌冽，东风何往： 美国加征关税与中国企业创新，<strong><strong>《财经研究》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbRw-NA9f9lia6Ss2UHYZ2QAonSs_iSzrbnbCNE85fVxBn5YP-PazM2LHNk2-RlOySLIDkB_M0PcCBHcGDZwkpLlJN_KdZLWS8w00J7xMVz7OSvvzw0v2VyfN5wF3KzZsF_BCoM6BiIgLMsSgOrHWfDa&uniplatform=NZKPT)
+  5. 许志伟、张哲玮、俞锦祥，政府行为的经济效应：一个多级政府的宏观分析框架，<strong><strong>《经济学报》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbTYQNmquKmgXONJGlkDGdpYnPqYg7e58L3H2t7gZQxNCXq5ZRvxSzIwuSOzxzT72ItbvQf4COrGopMy3Z7hcVL8eQgDWfuPsu-q_TGHuUDJkB_BEu94ewA16hbz9nT2Tq38zWslN8qZ0T5cmkxjuZYZ75dHEeLO-co5D79kFqCdSQ==&uniplatform=NZKPT&language=CHS)
+
+  6. 吕金秋、车翼、张燕、俞锦祥，西风凌冽，东风何往： 美国加征关税与中国企业创新，<strong><strong>《财经研究》</strong></strong>，2025. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=OsVNzKNazbRw-NA9f9lia6Ss2UHYZ2QAonSs_iSzrbnbCNE85fVxBn5YP-PazM2LHNk2-RlOySLIDkB_M0PcCBHcGDZwkpLlJN_KdZLWS8w00J7xMVz7OSvvzw0v2VyfN5wF3KzZsF_BCoM6BiIgLMsSgOrHWfDa&uniplatform=NZKPT)
 
 <br> 
 
@@ -25,15 +27,13 @@
 
   5. Green Criteria in R&D Policy: Innovation, Pollution, and Welfare (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  6. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu and  Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622310)
+  6. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
 
-  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
+  7. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
 
-  8. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
-
-  9. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟）.
+  8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟）.
   
-  10. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮）.
+  9. 目标与均衡：央地策略互动的理论视角（合作者：许志伟、张哲玮）.
 
 <br> 
 
