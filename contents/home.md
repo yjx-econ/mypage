@@ -5,8 +5,8 @@ Macro Finance, Chinese Economy.
 
 I'm currently working on
 * Credit market and financial frictions; 
-* Macroeconomics with endogenous government behaviors.
-* Industry policies and economic growthh.
+* Macroeconomics with endogenous government behaviors;
+* Industry policies and economic growth.
 
 Curriculum Vitae:   [CV in English](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu.pdf); [中文简历](https://yjx-econ.github.io/mypage/static/assets/CV_Jinxiang_Yu_CN.pdf).
 
