@@ -1,7 +1,7 @@
 
 #### Publications
 
-  1. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, Zhiwei Xu, Xinyu Zhan), 2026, forthcoming in <strong><strong>Regional Science and Urban Economics</strong></strong>.
+  1. Debt Management and Strategic Interactions in Top-down Bureaucracy: Evidence from China (with Xi Qu, Zhiwei Xu, Xinyu Zhan), 2026, forthcoming in <strong><strong>Regional Science and Urban Economics</strong></strong>. [[Paper]](10.1016/j.regsciurbeco.2026.104285)
      
   2. The Pricing of Local Government Bonds in China: A Bank-government Relationship Perspective (with Xi Qu and Zhiwei Xu), 2025, <strong><strong>China Economic Review</strong></strong>, Corresponding author. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1043951X25000987)
 
