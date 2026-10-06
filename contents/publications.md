@@ -19,17 +19,17 @@
 
   1. Inflow-Driven Contagion: A Theory of International Spillovers of Credit Cycles (with Feng Dong and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451063)
 
-  2. Policy Spillovers and Boom-Bust Cycles in Housing Markets. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
+  2. Financing R&D under Asymmetric Information (with Chang Liu, Yuchao Peng, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7563779)
 
-  3. Financing R&D (with Chang Liu, Yuchao Peng, and Zhiwei Xu).
+  3. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​[[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7386698)
 
-  4. The Nexus of Entrepreneurship and Credit Market: A Tale of Two Frictions (with Yicheng Wang, Zhiwei Xu, and Liyan Yang).​[[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7386698)
+  4. Green Criteria in R&D Policy: Innovation, Pollution, and Welfare (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  5. Green Criteria in R&D Policy: Innovation, Pollution, and Welfare (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
+  5. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
 
-  6. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
-
-  7. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
+  6. Policy Spillovers and Boom-Bust Cycles in Housing Markets. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
+   
+  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
 
   8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟）.
   
