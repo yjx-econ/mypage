@@ -25,11 +25,11 @@
 
   4. Green Criteria in R&D Policy: Innovation, Pollution, and Welfare (with Hongyu Nian, Huanhuan Wang, and Zhiwei Xu). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974208)
 
-  5. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang)
+  5. Credit Frictions and Industrial Policy: Evidence from China (with Huanhuan Wang, Zhiwei Xu, and Zhiqiang Zhang).
 
   6. Policy Spillovers and Boom-Bust Cycles in Housing Markets. [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711649)
    
-  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
+  7. A Political Model of China's Macroeconomy (with Zhiwei Xu and Zhewei Zhang). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5328567)
 
   8. 僵尸企业、信贷错配与宏观系统风险（合作者：董丰、许志伟）.
   
